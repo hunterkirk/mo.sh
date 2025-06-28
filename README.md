@@ -2,6 +2,7 @@
 
 `mo.sh` is a simple, powerful Bash script to query **all locally available Ollama models** sequentially with the **same prompt**, collecting their responses into a single timestamped log file.
 
+<img src="mo-sh.png"></img>
 ---
 
 ## Features
