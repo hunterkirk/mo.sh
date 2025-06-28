@@ -57,7 +57,7 @@ Querying model: huihui_ai/qwen3-abliterated:0.6b
 
 ```bash
 chmod +x mo.sh
-./mo.sh "Your prompt here"
+./mo.sh "Who was Led Zeppelin?"
 ```
 ## Output
 
