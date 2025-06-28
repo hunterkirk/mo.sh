@@ -4,7 +4,7 @@ OLLAMA_URL="http://localhost:11434"
 
 # Timestamp for log file
 TIMESTAMP=$(date +%Y%m%d-%H%M%S)
-LOGFILE="multi-ollama-$TIMESTAMP.log"
+LOGFILE="mo-$TIMESTAMP.log"
 
 # Check for prompt argument
 if [ $# -eq 0 ]; then
